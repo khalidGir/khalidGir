@@ -39,6 +39,6 @@ AI-supported dev workflows
 
 📫 Connect With Me
 
-Email: [email]
+Email: [khalidgirma3@gmail.com]
 LinkedIn: [link]
 Phone: 0903146834
