@@ -20,7 +20,7 @@ Website maintenance, hosting setup, and deployment
 
 Git-based version control and collaborative workflows
 
-##🧰 Tech Stack
+🧰 Tech Stack
 
 Frontend: HTML, CSS, JavaScript, Tailwind, React or Vue
 
