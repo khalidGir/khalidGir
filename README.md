@@ -20,11 +20,14 @@ Website maintenance, hosting setup, and deployment
 
 Git-based version control and collaborative workflows
 
-🧰 Tech Stack
+##🧰 Tech Stack
 
 Frontend: HTML, CSS, JavaScript, Tailwind, React or Vue
+
 Backend: PHP, Python, Node.js
+
 Databases: MySQL, PostgreSQL, MongoDB
+
 Tools: Git, VS Code, Figma, Webflow
 
 🌱 Currently Exploring
