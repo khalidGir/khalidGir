@@ -5,13 +5,13 @@ Backend-focused developer building scalable, reliable systems that power modern 
 
 ## 🚀 What I Do
 
-# Design and build robust backend systems and APIs
-# Develop and maintain scalable full-stack applications
-# Architect database structures for performance and reliability
-# Implement authentication, data security, and business logic
-# Optimize performance, debugging, and system efficiency
-# Handle deployment, CI/CD workflows, and cloud environments
-# Collaborate using Git-based workflows in team settings
+* Design and build robust backend systems and APIs
+* Develop and maintain scalable full-stack applications
+* Architect database structures for performance and reliability
+* Implement authentication, data security, and business logic
+* Optimize performance, debugging, and system efficiency
+* Handle deployment, CI/CD workflows, and cloud environments
+* Collaborate using Git-based workflows in team settings
 
 ## 🧰 Tech Stack
 
