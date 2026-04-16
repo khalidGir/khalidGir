@@ -1,46 +1,39 @@
-## Hi there 👋
+### 👋 I’m Khalid
 
-👋  I'm KHALID
+Backend-focused developer building scalable, reliable systems that power modern web applications. I specialize in designing clean APIs, optimizing performance, and ensuring production-ready deployments.
 
-I build modern, responsive, and user-friendly web experiences from end to end. I focus on clean UI implementation, solid backend logic, strong performance, and smooth deployment workflows.
 
-🚀 What I Do
+## 🚀 What I Do
 
-Web design and development
+# Design and build robust backend systems and APIs
+# Develop and maintain scalable full-stack applications
+# Architect database structures for performance and reliability
+# Implement authentication, data security, and business logic
+# Optimize performance, debugging, and system efficiency
+# Handle deployment, CI/CD workflows, and cloud environments
+# Collaborate using Git-based workflows in team settings
 
-Converting UI/UX designs into functional interfaces
+## 🧰 Tech Stack
 
-Full-stack development with HTML, CSS, JavaScript, PHP, Python, and Node.js
+Backend: Node.js, Python, PHP
+Databases: PostgreSQL, MongoDB, MySQL
+Frontend (supporting): React, Tailwind, JavaScript
+Tools: Docker, Git, VS Code, Firebase
 
-Database creation and integration (MySQL, PostgreSQL, MongoDB)
+## ⚙️ Core Strengths
 
-Debugging, performance tuning, and cross-browser testing
+API design (REST, real-time systems)
+Database design and query optimization
+System performance and scalability
+Clean architecture and maintainable code
 
-Website maintenance, hosting setup, and deployment
+## 🌱 Currently Focused On
 
-Git-based version control and collaborative workflows
+Advanced backend architecture and system design
+Cloud infrastructure and deployment pipelines
+High-performance and distributed systems
+AI-integrated backend workflows
 
-🧰 Tech Stack
-
-Frontend: HTML, CSS, JavaScript, Tailwind, React or Vue
-
-Backend: PHP, Python, Node.js
-
-Databases: MySQL, PostgreSQL, MongoDB
-
-Tools: Git, VS Code, Figma, Webflow
-
-🌱 Currently Exploring
-
-Advanced full-stack architecture
-
-Performance engineering
-
-Cloud deployment
-
-AI-supported dev workflows
-
-📫 Connect With Me
 
 Email: [khalidgirma3@gmail.com]
 LinkedIn: [link]
