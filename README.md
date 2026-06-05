@@ -59,24 +59,23 @@ Passionate about high-performance system design, database engineering, automatio
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- Alternative high-availability mirror for Main Stats Card -->
+  <!-- High-availability production master mirror for Main Stats -->
   <img height="160" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=khalidGir&show_icons=true&theme=tokyonight&hide_border=true" />
   
-  <!-- Alternative high-availability mirror for Top Languages Card -->
+  <!-- High-availability production master mirror for Top Languages -->
   <img height="160" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=khalidGir&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 📈 Contribution Streak & Growth
 
 <p align="center">
-  <!-- Swapping the broken activity graph for the highly reliable Streak Stats engine -->
-  <img src="https://streak-stats.demolab.com?user=khalidGir&theme=tokyonight&hide_border=true" />
+  <!-- Using an alternate Vercel edge deployment for streak stats to bypass the 504 gateway timeout -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=khalidGir&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <!-- Trophies with fallback styling configurations -->
   <img src="https://github-profile-trophy.vercel.app/?username=khalidGir&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6" />
 </p>
 ---
