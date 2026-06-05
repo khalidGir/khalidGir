@@ -56,14 +56,6 @@ Passionate about high-performance system design, database engineering, automatio
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=khalidGir&show_icons=true&theme=tokyonight&hide_border=true&v=2" />
-  
-  <img height="160" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=khalidGir&layout=compact&theme=tokyonight&hide_border=true&v=2" />
-</p>
-
 ### 📈 Contribution Streak & Growth
 
 <p align="center">
@@ -71,12 +63,21 @@ Passionate about high-performance system design, database engineering, automatio
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=khalidGir&theme=tokyonight&hide_border=true" />
 </p>
 
-### 🏆 GitHub Achievements
+### 📊 Engineering Metrics
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khalidGir&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6" />
-</p>
+| Core Stack Focus | System Infrastructure | Dev Metrics & Automation |
+| :--- | :--- | :--- |
+| ⚡ **Runtimes:** Node.js, TypeScript, Python | 🐳 **Containerization:** Docker | 🤖 **Workflows:** AI-Driven Agents (OpenCode) |
+| 🛠️ **Frameworks:** Next.js, React, Tailwind | 🗄️ **Databases:** PostgreSQL, Supabase | 🔄 **CI/CD:** Git Automation, Webhooks |
+| 💾 **ORMs:** Drizzle, Prisma | 📈 **Architecture:** Modular REST, Event-Driven | 🛠️ **Testing:** Clean Architecture Patterns |
+
 ---
+
+### 🏆 Core Specializations
+
+* **High-Velocity Ship Rate:** Engineered and deployed the *Tanker* marketplace infrastructure and *Tap Trade* derivatives backend routing using modern full-stack methodologies.
+* **Telegram Ecosystem Architecture:** Built custom real-time data flows, conversational state machines, and automated notification webhooks directly into production Telegram bot apps.
+* **Database Optimization:** Active experience migrating relational systems from Prisma to Drizzle to minimize connection overhead and maximize query execution performance.
 
 ### 📬 Connect With Me
 
