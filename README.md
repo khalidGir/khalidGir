@@ -59,22 +59,26 @@ Passionate about high-performance system design, database engineering, automatio
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=khalidGir&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidGir&layout=compact&theme=tokyonight&hide_border=true" />
+  <!-- Alternative high-availability mirror for Main Stats Card -->
+  <img height="160" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=khalidGir&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <!-- Alternative high-availability mirror for Top Languages Card -->
+  <img height="160" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=khalidGir&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-### 🔥 Activity Graph
+### 📈 Contribution Streak & Growth
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/khalidGir?base=0&plugin_isocalendar=1&plugin_isocalendar_duration=half-year" />
+  <!-- Swapping the broken activity graph for the highly reliable Streak Stats engine -->
+  <img src="https://streak-stats.demolab.com?user=khalidGir&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khalidGir&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <!-- Trophies with fallback styling configurations -->
+  <img src="https://github-profile-trophy.vercel.app/?username=khalidGir&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6" />
 </p>
-
 ---
 
 ### 📬 Connect With Me
