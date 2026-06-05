@@ -1,72 +1,84 @@
-👋 Hey, I’m Khalid
-Backend engineer crafting scalable, reliable, and production‑ready systems. I design clean APIs, build efficient data flows, and architect backend services that power real-world applications. Passionate about system design, performance, and automation.
+# 👋 Hey, I’m Khalid
 
-🚀 Tech & Tools
+Backend & Full-Stack Engineer crafting scalable, reliable, and production‑ready systems. I design clean APIs, optimize complex data flows, and architect robust services that power real-world applications and marketplaces. 
+
+Passionate about high-performance system design, database engineering, automation, and AI-driven workflows.
+
+---
+
+### 🚀 Tech & Tools
+
 <p align="left">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-🧩 What I Do
-Architect and build robust backend systems
+---
 
-Design REST APIs, real-time services & distributed workflows
+### 🧩 What I Do
 
-Model and optimize database schemas
+* **Architect Robust Backends:** Build modular, scalable server-side architectures, real-time services, and complex distributed workflows.
+* **Database & ORM Engineering:** Deep experience with relational data modeling, indexing, query optimization, and smooth schema migrations utilizing Prisma and Drizzle.
+* **Full-Stack & Marketplace Workflows:** Design end-to-end multi-user platforms, complex UI workflows, and smooth client-to-server integrations.
+* **Telegram & Bot Ecosystems:** Build highly interactive Telegram-based bots for automated systems, commerce, and agricultural management platforms.
+* **Secure & Performant Data Flows:** Implement rock-solid authentication/authorization schemas and fine-tune caching and data handling for high load.
 
-Implement authentication, authorization & secure data flows
+---
 
-Debug, profile & optimize for speed and scale
+### ⚙️ Core Strengths
 
-Build CI/CD pipelines, containerized deployments & cloud setups
+* **System Architecture:** Designing modular, testable, and maintainable production-ready code.
+* **API Design:** Clean API contracts, strict versioning, webhooks, and third-party financial/trading API integrations.
+* **AI-Driven Development:** Leveraging advanced AI agents and command-line automation tools to scale engineering velocity.
 
-Collaborate using Git workflows and clean engineering practices
+---
 
-⚙️ Core Strengths
-API Design: clean contracts, versioning, real-time systems
+### 🌱 Currently Leveling Up In
 
-Database Engineering: indexing, schema design, query optimization
+* Advanced distributed system patterns & cloud infrastructure.
+* Perpetual futures, derivatives integrations, and low-latency trading platform infrastructure.
+* Next-gen AI-integrated backend workflows.
 
-System Architecture: modular, scalable, distributed
+---
 
-Performance Optimization: caching, profiling, load handling
+### 📊 GitHub Stats
 
-Clean Architecture: maintainable, testable, production-ready code
-
-🌱 Currently Leveling Up In
-Advanced backend architecture & distributed systems
-
-Cloud infrastructure & deployment pipelines
-
-High-performance backend patterns
-
-AI-integrated backend workflows
-
-📊 GitHub Stats
 <p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=khalidGir&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidGir&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=khalidGir&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidGir&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-🔥 Activity Graph
+### 🔥 Activity Graph
+
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khalidGir&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khalidGir&theme=tokyo-night&hide_border=true" />
 </p>
 
-🏆 GitHub Achievements
+### 🏆 GitHub Achievements
+
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=khalidGir&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=khalidGir&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
-📬 Connect With Me
-Email: khalidgirma3@gmail.com
-LinkedIn: https://www.linkedin.com/in/khalid-girma  
-Phone: 0903146834
+---
+
+### 📬 Connect With Me
+
+* **Email:** khalidgirma3@gmail.com
+* **LinkedIn:** [linkedin.com/in/khalid-girma](https://www.linkedin.com/in/khalid-girma)
+* **Phone:** +251 903146834
