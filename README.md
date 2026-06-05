@@ -66,7 +66,7 @@ Passionate about high-performance system design, database engineering, automatio
 ### 🔥 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khalidGir&theme=tokyo-night&hide_border=true" />
+  <img src="https://metrics.lecoq.io/khalidGir?base=0&plugin_isocalendar=1&plugin_isocalendar_duration=half-year" />
 </p>
 
 ### 🏆 GitHub Achievements
