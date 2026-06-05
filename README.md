@@ -59,11 +59,9 @@ Passionate about high-performance system design, database engineering, automatio
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- High-availability production master mirror for Main Stats -->
-  <img height="160" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=khalidGir&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=khalidGir&show_icons=true&theme=tokyonight&hide_border=true&v=2" />
   
-  <!-- High-availability production master mirror for Top Languages -->
-  <img height="160" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=khalidGir&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=khalidGir&layout=compact&theme=tokyonight&hide_border=true&v=2" />
 </p>
 
 ### 📈 Contribution Streak & Growth
